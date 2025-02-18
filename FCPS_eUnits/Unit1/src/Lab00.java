@@ -18,8 +18,7 @@ public class Lab00 {
       
       karel.move();
       karel.pickBeeper();
-      
-      
+      //test      
 	}
 
 }
